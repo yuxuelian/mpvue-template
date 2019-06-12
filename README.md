@@ -1,4 +1,4 @@
-# mpvue-cloud-music
+# mpvue-template
 
 > A Mpvue project
 
